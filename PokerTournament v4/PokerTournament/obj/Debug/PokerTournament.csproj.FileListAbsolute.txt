@@ -28,3 +28,9 @@ C:\Users\Mystic\Downloads\PokerTournament v4\PokerTournament v4\PokerTournament\
 C:\Users\Mystic\Downloads\PokerTournament v4\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe
 C:\Users\Mystic\Downloads\PokerTournament v4\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.pdb
 C:\Users\Mystic\Downloads\PokerTournament v4\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csprojResolveAssemblyReference.cache
+C:\Users\Mystic\Desktop\Repositories\PokerAI\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe.config
+C:\Users\Mystic\Desktop\Repositories\PokerAI\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.exe
+C:\Users\Mystic\Desktop\Repositories\PokerAI\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.pdb
+C:\Users\Mystic\Desktop\Repositories\PokerAI\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe
+C:\Users\Mystic\Desktop\Repositories\PokerAI\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.pdb
+C:\Users\Mystic\Desktop\Repositories\PokerAI\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csprojResolveAssemblyReference.cache
